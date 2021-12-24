@@ -1,0 +1,39 @@
+.mainframe {
+  color: aliceblue;
+  margin: auto;
+  border: 1px solid black;
+  width: 400px;
+  height: auto;
+  background-color: bisque;
+}
+.outputbox {
+  font-size: 120px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+.box {
+  margin: auto;
+  border: 1px solid black;
+  display: flex;
+  height: 80px;
+  background-color: coral;
+}
+.nos {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.outputbox {
+  height: 160px;
+  background-color: cornflowerblue;
+}
+.nos {
+  width: 100px;
+  border: 1px solid black;
+  display: flex;
+  flex-wrap: nowrap;
+  font-size: 60px;
+}
+.zero {
+  width: 200px;
+}
